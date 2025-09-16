@@ -7013,7 +7013,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   glowController: {fileID: 607936281}
   duration: 5
-  waitTime: 102
+  waitTime: 107.5
 --- !u!4 &840379859
 Transform:
   m_ObjectHideFlags: 0
@@ -9346,19 +9346,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2322826940203700386, guid: 9964a661094ca4271b85dc8aa0394f45, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0
+      value: -0.29956144
       objectReference: {fileID: 0}
     - target: {fileID: 2322826940203700386, guid: 9964a661094ca4271b85dc8aa0394f45, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: 0.026208244
       objectReference: {fileID: 0}
     - target: {fileID: 2322826940203700386, guid: 9964a661094ca4271b85dc8aa0394f45, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.9961947
+      value: 0.9500878
       objectReference: {fileID: 0}
     - target: {fileID: 2322826940203700386, guid: 9964a661094ca4271b85dc8aa0394f45, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.08715578
+      value: 0.08312195
       objectReference: {fileID: 0}
     - target: {fileID: 2322826940203700386, guid: 9964a661094ca4271b85dc8aa0394f45, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -9366,7 +9366,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2322826940203700386, guid: 9964a661094ca4271b85dc8aa0394f45, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
+      value: 215
       objectReference: {fileID: 0}
     - target: {fileID: 2322826940203700386, guid: 9964a661094ca4271b85dc8aa0394f45, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z

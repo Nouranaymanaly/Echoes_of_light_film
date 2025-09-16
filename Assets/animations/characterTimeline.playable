@@ -136,13 +136,13 @@ MonoBehaviour:
     m_Start: 34.36666666666667
     m_ClipIn: 0
     m_Asset: {fileID: -9025701685699477834}
-    m_Duration: 8.600000000000001
+    m_Duration: 9.999999999999986
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7140885843692860896}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: -1
+    m_BlendOutDuration: 0.23333333333332007
     m_MixInCurve:
       serializedVersion: 2
       m_Curve: []
@@ -180,7 +180,7 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 0
     m_PreExtrapolationMode: 0
-    m_PostExtrapolationTime: 1.1666666666666643
+    m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 34.36666666666667
     m_DisplayName: idle
   - m_Version: 1
@@ -192,7 +192,7 @@ MonoBehaviour:
     m_ParentTrack: {fileID: -7140885843692860896}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: -1
+    m_BlendInDuration: 0.23333333333332007
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
@@ -250,13 +250,13 @@ MonoBehaviour:
     m_PostExtrapolationMode: 0
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 25.966666666666654
-    m_PreExtrapolationTime: 1.1666666666666643
+    m_PreExtrapolationTime: 0
     m_DisplayName: idle
   - m_Version: 1
     m_Start: 94.6
     m_ClipIn: 0
     m_Asset: {fileID: -4394764853237766483}
-    m_Duration: 10.066666666666677
+    m_Duration: 13.996768201390907
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7140885843692860896}
     m_EaseInDuration: 0
@@ -414,7 +414,7 @@ MonoBehaviour:
     m_Start: 94.6
     m_ClipIn: 0
     m_Asset: {fileID: 3221320961194162913}
-    m_Duration: 10.066666666666677
+    m_Duration: 13.996768201390907
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6140194183155293259}
     m_EaseInDuration: 0
@@ -1458,7 +1458,7 @@ MonoBehaviour:
     m_Start: 89.48333333333336
     m_ClipIn: 0
     m_Asset: {fileID: -2111542746480062495}
-    m_Duration: 15.183333333333309
+    m_Duration: 19.11343486805754
     m_TimeScale: 1
     m_ParentTrack: {fileID: -5568202706745216130}
     m_EaseInDuration: 0
@@ -2069,7 +2069,7 @@ MonoBehaviour:
     m_Start: 94.6
     m_ClipIn: 0
     m_Asset: {fileID: 4470021258140800800}
-    m_Duration: 10.066666666666677
+    m_Duration: 13.996768201390907
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1158392267710995331}
     m_EaseInDuration: 0
@@ -2526,7 +2526,7 @@ MonoBehaviour:
     m_Start: 69.73333333333333
     m_ClipIn: 0
     m_Asset: {fileID: 4819997394868339176}
-    m_Duration: 34.93333333333334
+    m_Duration: 38.86343486805755
     m_TimeScale: 1
     m_ParentTrack: {fileID: 179832988386192309}
     m_EaseInDuration: 0
@@ -2680,7 +2680,7 @@ MonoBehaviour:
     m_Start: 90.56666666666666
     m_ClipIn: 0
     m_Asset: {fileID: 3325106507865527106}
-    m_Duration: 14.100000000000009
+    m_Duration: 18.030101534724224
     m_TimeScale: 1
     m_ParentTrack: {fileID: 1344951535676810324}
     m_EaseInDuration: 0
@@ -2790,7 +2790,7 @@ MonoBehaviour:
     m_Start: 86.70000000000002
     m_ClipIn: 0
     m_Asset: {fileID: -1473770247176049792}
-    m_Duration: 17.966666666666654
+    m_Duration: 21.89676820139087
     m_TimeScale: 1
     m_ParentTrack: {fileID: 1565792562576034243}
     m_EaseInDuration: 0
@@ -3587,7 +3587,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 5884670818454733703}
-    m_Duration: 104.66666666666667
+    m_Duration: 108.5967682013909
     m_TimeScale: 1
     m_ParentTrack: {fileID: 5189726322933016733}
     m_EaseInDuration: 0
@@ -3697,7 +3697,7 @@ MonoBehaviour:
     m_Start: 44.13333333333333
     m_ClipIn: 0
     m_Asset: {fileID: -5477962512121191425}
-    m_Duration: 60.53333333333334
+    m_Duration: 64.46343486805756
     m_TimeScale: 1
     m_ParentTrack: {fileID: 5244576025467008773}
     m_EaseInDuration: 0
@@ -3882,7 +3882,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -3074043586635976085}
-    m_Duration: 104.66666666666667
+    m_Duration: 108.5967682013909
     m_TimeScale: 1
     m_ParentTrack: {fileID: 6233741589323900733}
     m_EaseInDuration: 0
